@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="imoocstyle">#CA0612</color>
+    <color name="theme_red">#cf4340</color>
+    <color name="btn_red_light">#F05D5B</color>
+    <color name="btn_red_light_pressed">#CCF05D5B</color>
+    <color name="theme_red_pressed">#cccf4340</color>
+    <color name="color_enable">#cdcdcd</color>
+</resources>

@@ -16,6 +16,12 @@ out/
 # Gradle files
 .gradle/
 build/
+app/
+dxswireBarcode/
+frescoimageviewer/
+.svn/
+.idea/
+import-summary.txt
 
 # Local configuration file (sdk path, etc)
 local.properties
