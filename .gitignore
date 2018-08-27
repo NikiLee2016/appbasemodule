@@ -1,5 +1,4 @@
 # Built application files
-*.apk
 *.ap_
 
 # Files for the ART/Dalvik VM
@@ -15,13 +14,24 @@ out/
 
 # Gradle files
 .gradle/
+
+# 忽略build自生成代码
 build/
+
+# 忽略主module app中的代码
 app/
+
+# 忽略project中后缀为apk的文件
+*.apk
+
+# 忽略import-summary.txt这个文件
+import-summary.txt
+
 dxswireBarcode/
 frescoimageviewer/
 .svn/
 .idea/
-import-summary.txt
+
 
 # Local configuration file (sdk path, etc)
 local.properties
